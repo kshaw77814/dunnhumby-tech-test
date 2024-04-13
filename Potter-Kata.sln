@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potter-Kata.Tests", "Potter-Kata.Tests\Potter-Kata.Tests.csproj", "{C8D558F0-B97F-43D4-9C67-851414241540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potter-Kata.Services", "Potter-Kata.Services\Potter-Kata.Services.csproj", "{0EB56A58-83D2-4848-B45F-F3CAAF2A703B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potter-Kata.Models", "Potter-Kata.Models\Potter-Kata.Models.csproj", "{3BDE3DA2-B83B-4387-B484-C8EB8198A972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D558F0-B97F-43D4-9C67-851414241540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D558F0-B97F-43D4-9C67-851414241540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D558F0-B97F-43D4-9C67-851414241540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D558F0-B97F-43D4-9C67-851414241540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB56A58-83D2-4848-B45F-F3CAAF2A703B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB56A58-83D2-4848-B45F-F3CAAF2A703B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB56A58-83D2-4848-B45F-F3CAAF2A703B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB56A58-83D2-4848-B45F-F3CAAF2A703B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDE3DA2-B83B-4387-B484-C8EB8198A972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDE3DA2-B83B-4387-B484-C8EB8198A972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDE3DA2-B83B-4387-B484-C8EB8198A972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDE3DA2-B83B-4387-B484-C8EB8198A972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
